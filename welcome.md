@@ -1,13 +1,13 @@
 # Project Title
 
-A short description of your projet goes here. Explain what it do and why it’s useful.
+A short description of your project goes here. Explain what it do and why it’s useful.
 
 ---
 
 ## Features
-- Fetare 1
+- Feature 1
 - Feature 2
-- Fture 3
+- Feature 3
 
 ---
 
